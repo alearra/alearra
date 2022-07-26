@@ -1,4 +1,4 @@
-# !Hi there 👋 my name is Alejandro Arra
+# Hi there 👋 my name is Alejandro Arra
 ### Full-Stack Developer & Project Manager
 
 <!--
