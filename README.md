@@ -4,6 +4,7 @@
 ▪️ We tend to expect things from the world but the reality is that the world is waiting for us. That's why I'm on my Full Stack Developer path, I want to create things that help improve people's lives.
 
 ## Skills:
+
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
@@ -26,7 +27,6 @@ And more...
 
 ## Find me at:
 
-[![Discord](https://img.shields.io/badge/Discord-alejandroarra-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](_alearra)
 [![Twitter](https://img.shields.io/badge/Twitter-@_alearra-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/_alearra)
 [![Instagram](https://img.shields.io/badge/Instagram-@alejandroarra-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/alejandroarra)
 </br>
