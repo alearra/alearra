@@ -33,7 +33,7 @@ And more...
 
 ## Contact & support:
 
-[![Email](my_personal_email_(slow_response))](mailto:braismoure@mouredev.com)
+Email
 
 
 
