@@ -26,7 +26,7 @@ And more...
 
 ## Find me at:
 
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](_alearra)
+[![Discord](https://img.shields.io/badge/Discord-alejandroarra-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](_alearra)
 [![Twitter](https://img.shields.io/badge/Twitter-@_alearra-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/_alearra)
 [![Instagram](https://img.shields.io/badge/Instagram-@alejandroarra-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/alejandroarra)
 </br>
