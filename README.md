@@ -1,5 +1,5 @@
-### Hi there 👋 my name is Alejandro Arra
-## Full-Stack Developer & Project Manager
+# !Hi there 👋 my name is Alejandro Arra
+### Full-Stack Developer & Project Manager
 
 <!--
 **alearra/alearra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
