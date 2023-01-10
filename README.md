@@ -1,9 +1,9 @@
 # Hi there 👋 my name is Alejandro Arra 
-### Full-Stack Developer & Project Manager
+### Full Stack Developer & Digital Project Manager
 
 ![Logo](https://github.com/alearra/alearra/blob/main/newbannergithub.png)
 
-▪️ We tend to expect things from the world but the reality is that the world is waiting for us. That's why I'm on my Full Stack Developer path, I want to create things that help improve people's lives.
+▪️ Digital Project Manager & Full Stack Web Developer focused on frontend. I manage projects and build web applications that lead to overall success. My main interests are web development, project management, cloud technology and digital business.
 
 ## Skills:
 
