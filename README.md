@@ -1,7 +1,7 @@
 # Hi there 👋 my name is Alejandro Arra 
 ### Full-Stack Developer & Project Manager
 
-![Logo](https://github.com/alearra/alearra/blob/main/bannergithub.png)
+![Logo](https://github.com/alearra/alearra/blob/main/newbannergithub.png)
 
 ▪️ We tend to expect things from the world but the reality is that the world is waiting for us. That's why I'm on my Full Stack Developer path, I want to create things that help improve people's lives.
 
